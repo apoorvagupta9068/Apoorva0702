@@ -1,7 +1,7 @@
 # Apoorva0702
 <h1 align="center">Hi 👋, I'm Apoorva Gupta </h1>
 <h3 align="center">A passionate Software Developer</h3>
-<!-- <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> -->
+<img align="right" alt="coding" width="400" src="https://github.com/apoorvagupta9068/Apoorva0702/blob/main/gitdp.png">
 
 - 🔭 I’m currently working on *React*
 
